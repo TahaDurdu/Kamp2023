@@ -1,0 +1,17 @@
+/Users/tahadurdu/Documents/C# Kamp/FinalProject/Business/bin/Debug/net7.0/Business.deps.json
+/Users/tahadurdu/Documents/C# Kamp/FinalProject/Business/bin/Debug/net7.0/Business.dll
+/Users/tahadurdu/Documents/C# Kamp/FinalProject/Business/bin/Debug/net7.0/Business.pdb
+/Users/tahadurdu/Documents/C# Kamp/FinalProject/Business/bin/Debug/net7.0/DataAccess.dll
+/Users/tahadurdu/Documents/C# Kamp/FinalProject/Business/bin/Debug/net7.0/Entities.dll
+/Users/tahadurdu/Documents/C# Kamp/FinalProject/Business/bin/Debug/net7.0/Entities.pdb
+/Users/tahadurdu/Documents/C# Kamp/FinalProject/Business/bin/Debug/net7.0/DataAccess.pdb
+/Users/tahadurdu/Documents/C# Kamp/FinalProject/Business/obj/Debug/net7.0/Business.csproj.AssemblyReference.cache
+/Users/tahadurdu/Documents/C# Kamp/FinalProject/Business/obj/Debug/net7.0/Business.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tahadurdu/Documents/C# Kamp/FinalProject/Business/obj/Debug/net7.0/Business.AssemblyInfoInputs.cache
+/Users/tahadurdu/Documents/C# Kamp/FinalProject/Business/obj/Debug/net7.0/Business.AssemblyInfo.cs
+/Users/tahadurdu/Documents/C# Kamp/FinalProject/Business/obj/Debug/net7.0/Business.csproj.CoreCompileInputs.cache
+/Users/tahadurdu/Documents/C# Kamp/FinalProject/Business/obj/Debug/net7.0/Business.csproj.CopyComplete
+/Users/tahadurdu/Documents/C# Kamp/FinalProject/Business/obj/Debug/net7.0/Business.dll
+/Users/tahadurdu/Documents/C# Kamp/FinalProject/Business/obj/Debug/net7.0/refint/Business.dll
+/Users/tahadurdu/Documents/C# Kamp/FinalProject/Business/obj/Debug/net7.0/Business.pdb
+/Users/tahadurdu/Documents/C# Kamp/FinalProject/Business/obj/Debug/net7.0/ref/Business.dll
