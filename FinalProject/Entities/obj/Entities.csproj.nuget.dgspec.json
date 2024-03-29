@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/tahadurdu/Documents/C# Kamp/FinalProject/Entities/Entities.csproj": {}
+    "/Users/tahadurdu/Documents/Kamp2023/FinalProject/Entities/Entities.csproj": {}
   },
   "projects": {
-    "/Users/tahadurdu/Documents/C# Kamp/FinalProject/Entities/Entities.csproj": {
+    "/Users/tahadurdu/Documents/Kamp2023/FinalProject/Entities/Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/tahadurdu/Documents/C# Kamp/FinalProject/Entities/Entities.csproj",
+        "projectUniqueName": "/Users/tahadurdu/Documents/Kamp2023/FinalProject/Entities/Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "/Users/tahadurdu/Documents/C# Kamp/FinalProject/Entities/Entities.csproj",
+        "projectPath": "/Users/tahadurdu/Documents/Kamp2023/FinalProject/Entities/Entities.csproj",
         "packagesPath": "/Users/tahadurdu/.nuget/packages/",
-        "outputPath": "/Users/tahadurdu/Documents/C# Kamp/FinalProject/Entities/obj/",
+        "outputPath": "/Users/tahadurdu/Documents/Kamp2023/FinalProject/Entities/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/tahadurdu/.nuget/NuGet/NuGet.Config"
@@ -53,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.312/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/x64/sdk/8.0.203/RuntimeIdentifierGraph.json"
         }
       }
     }

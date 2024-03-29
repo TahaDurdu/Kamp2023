@@ -1,0 +1,15 @@
+/Users/tahadurdu/Documents/Kamp2023/LinqProject/LinqProject/bin/Debug/net8.0/LinqProject
+/Users/tahadurdu/Documents/Kamp2023/LinqProject/LinqProject/bin/Debug/net8.0/LinqProject.deps.json
+/Users/tahadurdu/Documents/Kamp2023/LinqProject/LinqProject/bin/Debug/net8.0/LinqProject.runtimeconfig.json
+/Users/tahadurdu/Documents/Kamp2023/LinqProject/LinqProject/bin/Debug/net8.0/LinqProject.dll
+/Users/tahadurdu/Documents/Kamp2023/LinqProject/LinqProject/bin/Debug/net8.0/LinqProject.pdb
+/Users/tahadurdu/Documents/Kamp2023/LinqProject/LinqProject/obj/Debug/net8.0/LinqProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tahadurdu/Documents/Kamp2023/LinqProject/LinqProject/obj/Debug/net8.0/LinqProject.AssemblyInfoInputs.cache
+/Users/tahadurdu/Documents/Kamp2023/LinqProject/LinqProject/obj/Debug/net8.0/LinqProject.AssemblyInfo.cs
+/Users/tahadurdu/Documents/Kamp2023/LinqProject/LinqProject/obj/Debug/net8.0/LinqProject.csproj.CoreCompileInputs.cache
+/Users/tahadurdu/Documents/Kamp2023/LinqProject/LinqProject/obj/Debug/net8.0/LinqProject.sourcelink.json
+/Users/tahadurdu/Documents/Kamp2023/LinqProject/LinqProject/obj/Debug/net8.0/LinqProject.dll
+/Users/tahadurdu/Documents/Kamp2023/LinqProject/LinqProject/obj/Debug/net8.0/refint/LinqProject.dll
+/Users/tahadurdu/Documents/Kamp2023/LinqProject/LinqProject/obj/Debug/net8.0/LinqProject.pdb
+/Users/tahadurdu/Documents/Kamp2023/LinqProject/LinqProject/obj/Debug/net8.0/LinqProject.genruntimeconfig.cache
+/Users/tahadurdu/Documents/Kamp2023/LinqProject/LinqProject/obj/Debug/net8.0/ref/LinqProject.dll

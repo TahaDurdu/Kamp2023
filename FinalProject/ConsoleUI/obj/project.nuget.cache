@@ -1,8 +1,20 @@
 {
   "version": 2,
-  "dgSpecHash": "eMNEf1bO0HR0yS+HSQPDfUaYbx3Xf89KjhyCfltj31PMyyPc3UYhn2fNGloI49LSqIXw+/43Zpx3+YTEpAf7Gg==",
+  "dgSpecHash": "Lxrz+AApxLpcc1ityl1WBNwWDthVwKDZvhEb+QLkCkftkB7ObLrF1akGIZ0S0Y3Pekzx9RKD2ES95BDBV+FQRg==",
   "success": true,
-  "projectFilePath": "/Users/tahadurdu/Documents/C# Kamp/FinalProject/ConsoleUI/ConsoleUI.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/Users/tahadurdu/Documents/Kamp2023/FinalProject/ConsoleUI/ConsoleUI.csproj",
+  "expectedPackageFiles": [
+    "/Users/tahadurdu/.nuget/packages/microsoft.extensions.configuration/8.0.0/microsoft.extensions.configuration.8.0.0.nupkg.sha512",
+    "/Users/tahadurdu/.nuget/packages/microsoft.extensions.configuration.abstractions/8.0.0/microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",
+    "/Users/tahadurdu/.nuget/packages/microsoft.extensions.configuration.fileextensions/8.0.0/microsoft.extensions.configuration.fileextensions.8.0.0.nupkg.sha512",
+    "/Users/tahadurdu/.nuget/packages/microsoft.extensions.configuration.json/8.0.0/microsoft.extensions.configuration.json.8.0.0.nupkg.sha512",
+    "/Users/tahadurdu/.nuget/packages/microsoft.extensions.configuration.usersecrets/8.0.0/microsoft.extensions.configuration.usersecrets.8.0.0.nupkg.sha512",
+    "/Users/tahadurdu/.nuget/packages/microsoft.extensions.fileproviders.abstractions/8.0.0/microsoft.extensions.fileproviders.abstractions.8.0.0.nupkg.sha512",
+    "/Users/tahadurdu/.nuget/packages/microsoft.extensions.fileproviders.physical/8.0.0/microsoft.extensions.fileproviders.physical.8.0.0.nupkg.sha512",
+    "/Users/tahadurdu/.nuget/packages/microsoft.extensions.filesystemglobbing/8.0.0/microsoft.extensions.filesystemglobbing.8.0.0.nupkg.sha512",
+    "/Users/tahadurdu/.nuget/packages/microsoft.extensions.primitives/8.0.0/microsoft.extensions.primitives.8.0.0.nupkg.sha512",
+    "/Users/tahadurdu/.nuget/packages/system.text.encodings.web/8.0.0/system.text.encodings.web.8.0.0.nupkg.sha512",
+    "/Users/tahadurdu/.nuget/packages/system.text.json/8.0.0/system.text.json.8.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

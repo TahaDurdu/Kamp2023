@@ -1,8 +1,20 @@
 {
   "version": 2,
-  "dgSpecHash": "MQznaknpiHderaRYqdUfInrwOs5+9h6XP7Xj9ZKl6BsyoOeXy5pHLTc8rC6iJHnrtKTIpN8ubSGOIQUyUB+4bw==",
+  "dgSpecHash": "Et1GSF+t94ZlVU2LYyVU0ciqkE+d68j+VoJwuTaVk91k7ge/wfhyv4SJDCvn87NaCMNZLOQWFtrm+MBfoILQuw==",
   "success": true,
-  "projectFilePath": "/Users/tahadurdu/Documents/C# Kamp/FinalProject/DataAccess/DataAccess.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/Users/tahadurdu/Documents/Kamp2023/FinalProject/DataAccess/DataAccess.csproj",
+  "expectedPackageFiles": [
+    "/Users/tahadurdu/.nuget/packages/microsoft.extensions.configuration/8.0.0/microsoft.extensions.configuration.8.0.0.nupkg.sha512",
+    "/Users/tahadurdu/.nuget/packages/microsoft.extensions.configuration.abstractions/8.0.0/microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",
+    "/Users/tahadurdu/.nuget/packages/microsoft.extensions.configuration.fileextensions/8.0.0/microsoft.extensions.configuration.fileextensions.8.0.0.nupkg.sha512",
+    "/Users/tahadurdu/.nuget/packages/microsoft.extensions.configuration.json/8.0.0/microsoft.extensions.configuration.json.8.0.0.nupkg.sha512",
+    "/Users/tahadurdu/.nuget/packages/microsoft.extensions.configuration.usersecrets/8.0.0/microsoft.extensions.configuration.usersecrets.8.0.0.nupkg.sha512",
+    "/Users/tahadurdu/.nuget/packages/microsoft.extensions.fileproviders.abstractions/8.0.0/microsoft.extensions.fileproviders.abstractions.8.0.0.nupkg.sha512",
+    "/Users/tahadurdu/.nuget/packages/microsoft.extensions.fileproviders.physical/8.0.0/microsoft.extensions.fileproviders.physical.8.0.0.nupkg.sha512",
+    "/Users/tahadurdu/.nuget/packages/microsoft.extensions.filesystemglobbing/8.0.0/microsoft.extensions.filesystemglobbing.8.0.0.nupkg.sha512",
+    "/Users/tahadurdu/.nuget/packages/microsoft.extensions.primitives/8.0.0/microsoft.extensions.primitives.8.0.0.nupkg.sha512",
+    "/Users/tahadurdu/.nuget/packages/system.text.encodings.web/8.0.0/system.text.encodings.web.8.0.0.nupkg.sha512",
+    "/Users/tahadurdu/.nuget/packages/system.text.json/8.0.0/system.text.json.8.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
