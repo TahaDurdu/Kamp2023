@@ -27,5 +27,5 @@
 /Users/tahadurdu/Documents/Kamp2023/FinalProject/DataAccess/bin/Debug/net7.0/DataAccess.pdb
 /Users/tahadurdu/Documents/Kamp2023/FinalProject/DataAccess/bin/Debug/net7.0/Entities.dll
 /Users/tahadurdu/Documents/Kamp2023/FinalProject/DataAccess/bin/Debug/net7.0/Entities.pdb
-/Users/tahadurdu/Documents/Kamp2023/FinalProject/DataAccess/obj/Debug/net7.0/DataAccess.csproj.CopyComplete
 /Users/tahadurdu/Documents/Kamp2023/FinalProject/DataAccess/obj/Debug/net7.0/ref/DataAccess.dll
+/Users/tahadurdu/Documents/Kamp2023/FinalProject/DataAccess/obj/Debug/net7.0/DataAccess.csproj.Up2Date

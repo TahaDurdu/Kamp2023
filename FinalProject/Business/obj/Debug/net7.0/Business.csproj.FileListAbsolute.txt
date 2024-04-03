@@ -28,8 +28,8 @@
 /Users/tahadurdu/Documents/Kamp2023/FinalProject/Business/obj/Debug/net7.0/Business.AssemblyInfo.cs
 /Users/tahadurdu/Documents/Kamp2023/FinalProject/Business/obj/Debug/net7.0/Business.csproj.CoreCompileInputs.cache
 /Users/tahadurdu/Documents/Kamp2023/FinalProject/Business/obj/Debug/net7.0/Business.sourcelink.json
-/Users/tahadurdu/Documents/Kamp2023/FinalProject/Business/obj/Debug/net7.0/Business.csproj.CopyComplete
 /Users/tahadurdu/Documents/Kamp2023/FinalProject/Business/obj/Debug/net7.0/Business.dll
 /Users/tahadurdu/Documents/Kamp2023/FinalProject/Business/obj/Debug/net7.0/refint/Business.dll
 /Users/tahadurdu/Documents/Kamp2023/FinalProject/Business/obj/Debug/net7.0/Business.pdb
 /Users/tahadurdu/Documents/Kamp2023/FinalProject/Business/obj/Debug/net7.0/ref/Business.dll
+/Users/tahadurdu/Documents/Kamp2023/FinalProject/Business/obj/Debug/net7.0/Business.csproj.Up2Date

@@ -10,12 +10,14 @@ namespace DataAccess.Concrete.EntityFramework
 	{
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseSqlServer(@"\Server=localhost,1401;Database=NORTHWND;User=SA;Password=reallyStrongPwd123;") ;
+            optionsBuilder.UseSqlServer(@"Server=localhost;Database=NORTHWND;User=SA;Password=reallyStrongPwd123;Encrypt=False;") ;
         }
 
         public DbSet<Product> Products  { get; set; }
         public DbSet<Category> Categories { get; set; }
         public DbSet<Customer> Customers { get; set; }
+
+      
 
     }
 }
