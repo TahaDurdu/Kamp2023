@@ -16,3 +16,5 @@
 /Users/tahadurdu/Documents/Kamp2023/FinalProject/Business/obj/Debug/net8.0/refint/Business.dll
 /Users/tahadurdu/Documents/Kamp2023/FinalProject/Business/obj/Debug/net8.0/Business.pdb
 /Users/tahadurdu/Documents/Kamp2023/FinalProject/Business/obj/Debug/net8.0/ref/Business.dll
+/Users/tahadurdu/Documents/Kamp2023/FinalProject/Business/bin/Debug/net8.0/Core.dll
+/Users/tahadurdu/Documents/Kamp2023/FinalProject/Business/bin/Debug/net8.0/Core.pdb

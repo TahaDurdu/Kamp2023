@@ -16,3 +16,5 @@
 /Users/tahadurdu/Documents/Kamp2023/FinalProject/DataAccess/obj/Debug/net8.0/ref/DataAccess.dll
 /Users/tahadurdu/Documents/Kamp2023/FinalProject/DataAccess/bin/Debug/net8.0/DataAccess.runtimeconfig.json
 /Users/tahadurdu/Documents/Kamp2023/FinalProject/DataAccess/obj/Debug/net8.0/DataAccess.genruntimeconfig.cache
+/Users/tahadurdu/Documents/Kamp2023/FinalProject/DataAccess/bin/Debug/net8.0/Core.dll
+/Users/tahadurdu/Documents/Kamp2023/FinalProject/DataAccess/bin/Debug/net8.0/Core.pdb

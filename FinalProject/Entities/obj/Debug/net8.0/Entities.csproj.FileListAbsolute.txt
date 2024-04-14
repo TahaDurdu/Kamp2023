@@ -1,0 +1,16 @@
+/Users/tahadurdu/Documents/Kamp2023/FinalProject/Entities/bin/Debug/net8.0/Entities.deps.json
+/Users/tahadurdu/Documents/Kamp2023/FinalProject/Entities/bin/Debug/net8.0/Entities.dll
+/Users/tahadurdu/Documents/Kamp2023/FinalProject/Entities/bin/Debug/net8.0/Entities.pdb
+/Users/tahadurdu/Documents/Kamp2023/FinalProject/Entities/bin/Debug/net8.0/Core.dll
+/Users/tahadurdu/Documents/Kamp2023/FinalProject/Entities/bin/Debug/net8.0/Core.pdb
+/Users/tahadurdu/Documents/Kamp2023/FinalProject/Entities/obj/Debug/net8.0/Entities.csproj.AssemblyReference.cache
+/Users/tahadurdu/Documents/Kamp2023/FinalProject/Entities/obj/Debug/net8.0/Entities.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tahadurdu/Documents/Kamp2023/FinalProject/Entities/obj/Debug/net8.0/Entities.AssemblyInfoInputs.cache
+/Users/tahadurdu/Documents/Kamp2023/FinalProject/Entities/obj/Debug/net8.0/Entities.AssemblyInfo.cs
+/Users/tahadurdu/Documents/Kamp2023/FinalProject/Entities/obj/Debug/net8.0/Entities.csproj.CoreCompileInputs.cache
+/Users/tahadurdu/Documents/Kamp2023/FinalProject/Entities/obj/Debug/net8.0/Entities.sourcelink.json
+/Users/tahadurdu/Documents/Kamp2023/FinalProject/Entities/obj/Debug/net8.0/Entities.csproj.Up2Date
+/Users/tahadurdu/Documents/Kamp2023/FinalProject/Entities/obj/Debug/net8.0/Entities.dll
+/Users/tahadurdu/Documents/Kamp2023/FinalProject/Entities/obj/Debug/net8.0/refint/Entities.dll
+/Users/tahadurdu/Documents/Kamp2023/FinalProject/Entities/obj/Debug/net8.0/Entities.pdb
+/Users/tahadurdu/Documents/Kamp2023/FinalProject/Entities/obj/Debug/net8.0/ref/Entities.dll
