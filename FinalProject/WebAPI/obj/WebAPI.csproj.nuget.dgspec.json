@@ -1,0 +1,374 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/tahadurdu/Documents/Kamp2023/FinalProject/WebAPI/WebAPI.csproj": {}
+  },
+  "projects": {
+    "/Users/tahadurdu/Documents/Kamp2023/FinalProject/Business/Business.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/tahadurdu/Documents/Kamp2023/FinalProject/Business/Business.csproj",
+        "projectName": "Business",
+        "projectPath": "/Users/tahadurdu/Documents/Kamp2023/FinalProject/Business/Business.csproj",
+        "packagesPath": "/Users/tahadurdu/.nuget/packages/",
+        "outputPath": "/Users/tahadurdu/Documents/Kamp2023/FinalProject/Business/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/tahadurdu/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/tahadurdu/Documents/Kamp2023/FinalProject/DataAccess/DataAccess.csproj": {
+                "projectPath": "/Users/tahadurdu/Documents/Kamp2023/FinalProject/DataAccess/DataAccess.csproj"
+              },
+              "/Users/tahadurdu/Documents/Kamp2023/FinalProject/Entities/Entities.csproj": {
+                "projectPath": "/Users/tahadurdu/Documents/Kamp2023/FinalProject/Entities/Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.203/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/tahadurdu/Documents/Kamp2023/FinalProject/Core/Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/tahadurdu/Documents/Kamp2023/FinalProject/Core/Core.csproj",
+        "projectName": "Core",
+        "projectPath": "/Users/tahadurdu/Documents/Kamp2023/FinalProject/Core/Core.csproj",
+        "packagesPath": "/Users/tahadurdu/.nuget/packages/",
+        "outputPath": "/Users/tahadurdu/Documents/Kamp2023/FinalProject/Core/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/tahadurdu/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.203/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/tahadurdu/Documents/Kamp2023/FinalProject/DataAccess/DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/tahadurdu/Documents/Kamp2023/FinalProject/DataAccess/DataAccess.csproj",
+        "projectName": "DataAccess",
+        "projectPath": "/Users/tahadurdu/Documents/Kamp2023/FinalProject/DataAccess/DataAccess.csproj",
+        "packagesPath": "/Users/tahadurdu/.nuget/packages/",
+        "outputPath": "/Users/tahadurdu/Documents/Kamp2023/FinalProject/DataAccess/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/tahadurdu/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/tahadurdu/Documents/Kamp2023/FinalProject/Core/Core.csproj": {
+                "projectPath": "/Users/tahadurdu/Documents/Kamp2023/FinalProject/Core/Core.csproj"
+              },
+              "/Users/tahadurdu/Documents/Kamp2023/FinalProject/Entities/Entities.csproj": {
+                "projectPath": "/Users/tahadurdu/Documents/Kamp2023/FinalProject/Entities/Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.4, )"
+            },
+            "Microsoft.Extensions.Configuration.UserSecrets": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.203/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/tahadurdu/Documents/Kamp2023/FinalProject/Entities/Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/tahadurdu/Documents/Kamp2023/FinalProject/Entities/Entities.csproj",
+        "projectName": "Entities",
+        "projectPath": "/Users/tahadurdu/Documents/Kamp2023/FinalProject/Entities/Entities.csproj",
+        "packagesPath": "/Users/tahadurdu/.nuget/packages/",
+        "outputPath": "/Users/tahadurdu/Documents/Kamp2023/FinalProject/Entities/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/tahadurdu/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/tahadurdu/Documents/Kamp2023/FinalProject/Core/Core.csproj": {
+                "projectPath": "/Users/tahadurdu/Documents/Kamp2023/FinalProject/Core/Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.203/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/tahadurdu/Documents/Kamp2023/FinalProject/WebAPI/WebAPI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/tahadurdu/Documents/Kamp2023/FinalProject/WebAPI/WebAPI.csproj",
+        "projectName": "WebAPI",
+        "projectPath": "/Users/tahadurdu/Documents/Kamp2023/FinalProject/WebAPI/WebAPI.csproj",
+        "packagesPath": "/Users/tahadurdu/.nuget/packages/",
+        "outputPath": "/Users/tahadurdu/Documents/Kamp2023/FinalProject/WebAPI/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/tahadurdu/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/tahadurdu/Documents/Kamp2023/FinalProject/Business/Business.csproj": {
+                "projectPath": "/Users/tahadurdu/Documents/Kamp2023/FinalProject/Business/Business.csproj"
+              },
+              "/Users/tahadurdu/Documents/Kamp2023/FinalProject/Core/Core.csproj": {
+                "projectPath": "/Users/tahadurdu/Documents/Kamp2023/FinalProject/Core/Core.csproj"
+              },
+              "/Users/tahadurdu/Documents/Kamp2023/FinalProject/DataAccess/DataAccess.csproj": {
+                "projectPath": "/Users/tahadurdu/Documents/Kamp2023/FinalProject/DataAccess/DataAccess.csproj"
+              },
+              "/Users/tahadurdu/Documents/Kamp2023/FinalProject/Entities/Entities.csproj": {
+                "projectPath": "/Users/tahadurdu/Documents/Kamp2023/FinalProject/Entities/Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Components.QuickGrid.EntityFrameworkAdapter": {
+              "target": "Package",
+              "version": "[8.0.4, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.203/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
