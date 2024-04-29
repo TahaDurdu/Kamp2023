@@ -270,3 +270,8 @@
 /Users/tahadurdu/Documents/Kamp2023/FinalProject/WebAPI/bin/Debug/net8.0/Business.pdb
 /Users/tahadurdu/Documents/Kamp2023/FinalProject/WebAPI/bin/Debug/net8.0/Core.pdb
 /Users/tahadurdu/Documents/Kamp2023/FinalProject/WebAPI/bin/Debug/net8.0/DataAccess.pdb
+/Users/tahadurdu/Documents/Kamp2023/FinalProject/WebAPI/bin/Debug/net8.0/Autofac.dll
+/Users/tahadurdu/Documents/Kamp2023/FinalProject/WebAPI/bin/Debug/net8.0/Autofac.Extras.DynamicProxy.dll
+/Users/tahadurdu/Documents/Kamp2023/FinalProject/WebAPI/bin/Debug/net8.0/Castle.Core.dll
+/Users/tahadurdu/Documents/Kamp2023/FinalProject/WebAPI/bin/Debug/net8.0/Autofac.Extensions.DependencyInjection.dll
+/Users/tahadurdu/Documents/Kamp2023/FinalProject/WebAPI/bin/Debug/net8.0/FluentValidation.dll
