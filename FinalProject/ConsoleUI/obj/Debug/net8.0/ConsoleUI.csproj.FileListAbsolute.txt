@@ -77,3 +77,11 @@
 /Users/tahadurdu/Documents/Kamp2023/FinalProject/ConsoleUI/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
 /Users/tahadurdu/Documents/Kamp2023/FinalProject/ConsoleUI/bin/Debug/net8.0/Core.dll
 /Users/tahadurdu/Documents/Kamp2023/FinalProject/ConsoleUI/bin/Debug/net8.0/Core.pdb
+/Users/tahadurdu/Documents/Kamp2023/FinalProject/ConsoleUI/bin/Debug/net8.0/Autofac.dll
+/Users/tahadurdu/Documents/Kamp2023/FinalProject/ConsoleUI/bin/Debug/net8.0/Autofac.Extensions.DependencyInjection.dll
+/Users/tahadurdu/Documents/Kamp2023/FinalProject/ConsoleUI/bin/Debug/net8.0/Autofac.Extras.DynamicProxy.dll
+/Users/tahadurdu/Documents/Kamp2023/FinalProject/ConsoleUI/bin/Debug/net8.0/Castle.Core.dll
+/Users/tahadurdu/Documents/Kamp2023/FinalProject/ConsoleUI/bin/Debug/net8.0/FluentValidation.dll
+/Users/tahadurdu/Documents/Kamp2023/FinalProject/ConsoleUI/bin/Debug/net8.0/System.Diagnostics.EventLog.dll
+/Users/tahadurdu/Documents/Kamp2023/FinalProject/ConsoleUI/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Diagnostics.EventLog.Messages.dll
+/Users/tahadurdu/Documents/Kamp2023/FinalProject/ConsoleUI/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Diagnostics.EventLog.dll

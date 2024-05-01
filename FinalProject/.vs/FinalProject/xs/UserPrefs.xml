@@ -1,51 +1,44 @@
 ﻿<Properties StartupConfiguration="{FDCC7A9E-DC24-4D42-9635-0CF8BD11F961}|https">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Core/Aspects/Autofac/Validation/ValidationAspect.cs">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Business/DependencyResolvers/Autofac/AutofacBusinessModule.cs">
     <Files>
-      <File FileName="WebAPI/Controllers/ProductsController.cs" Line="30" Column="14" />
-      <File FileName="WebAPI/Program.cs" Line="25" Column="46" />
-      <File FileName="Business/Concrete/ProductManager.cs" Line="32" Column="38" />
+      <File FileName="Business/Concrete/ProductManager.cs" />
+      <File FileName="Business/Concrete/CategoryManager.cs" />
+      <File FileName="Business/Abstract/ICategoryService.cs" />
+      <File FileName="Business/Abstract/IProductService.cs" />
+      <File FileName="Business/Constants/Messages.cs" />
+      <File FileName="Core/Utilities/Business/BusinessRules.cs" />
+      <File FileName="Entities/DTOs/ProductDetailDto.cs" />
       <File FileName="Core/DataAccess/EntityFramework/EfEntityRepositoryBase.cs" />
-      <File FileName="Core/Utilities/Results/Result.cs" />
-      <File FileName="Business/DependencyResolvers/Autofac/AutofacBusinessModule.cs" Line="15" Column="22" />
-      <File FileName="WebAPI/WeatherForecast.cs" Line="1" Column="1" />
-      <File FileName="WebAPI/appsettings.json" Line="1" Column="1" />
-      <File FileName="Business/Constants/Messages.cs" Line="13" Column="1" />
-      <File FileName="Business/ValidationRules/FluentValidation/ProductValidator.cs" Line="23" Column="16" />
-      <File FileName="Core/CrossCuttingConcerns/Validation/ValidattionTool.cs" Line="15" Column="58" />
-      <File FileName="Core/Utilities/Interceptors/EmptyClass.cs" Line="18" Column="45" />
-      <File FileName="Core/Utilities/Interceptors/MethodInterceptionBaseAttribute.cs" Line="1" Column="1" />
-      <File FileName="Core/Aspects/Autofac/Validation/EmptyClass.cs" Line="21" Column="1" />
+      <File FileName="ConsoleUI/Program.cs" Line="16" Column="6" />
+      <File FileName="Business/DependencyResolvers/Autofac/AutofacBusinessModule.cs" Line="12" Column="44" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="FinalProject" expanded="True">
             <Node name="Business">
-              <Node name="ValidationRules" expanded="True">
-                <Node name="FluentValidation" expanded="True" />
-              </Node>
-            </Node>
-            <Node name="Core">
-              <Node name="Dependencies" expanded="True" />
-              <Node name="Aspects" expanded="True">
+              <Node name="Concrete" expanded="True" />
+              <Node name="DependencyResolvers" expanded="True">
                 <Node name="Autofac" expanded="True">
-                  <Node name="Validation" expanded="True">
-                    <Node name="ValidationAspect.cs" selected="True" />
-                  </Node>
+                  <Node name="AutofacBusinessModule.cs" selected="True" />
                 </Node>
               </Node>
             </Node>
+            <Node name="ConsoleUI" expanded="True" />
           </Node>
         </State>
       </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.ItemProperties.WebAPI PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.ConsoleUI PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.ConsoleUI PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>

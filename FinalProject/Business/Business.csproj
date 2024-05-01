@@ -14,6 +14,7 @@
     <None Remove="DependencyResolvers\Autofac\" />
     <None Remove="ValidationRules\" />
     <None Remove="ValidationRules\FluentValidation\" />
+    <None Remove="CCS\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Abstract\" />
@@ -23,6 +24,7 @@
     <Folder Include="DependencyResolvers\Autofac\" />
     <Folder Include="ValidationRules\" />
     <Folder Include="ValidationRules\FluentValidation\" />
+    <Folder Include="CCS\" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Entities\Entities.csproj" />
