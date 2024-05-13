@@ -1,4 +1,5 @@
 ﻿using System;
+using Core.Entities.Concrete;
 using Entities.Concrete;
 
 namespace Business.Constants
@@ -13,6 +14,15 @@ namespace Business.Constants
 
         public static string ProductNameAlreadyExists = "Eklenilen ürün isminde kayıt var";
         public static string CategoryLimitExceded = "Kategori 15'i aştığı için ürün eklenemiyor";
+        public static string AuthorizationDenied = "Yetkiniz Yoktur";
+        public static string UserRegistered = "Kayıt olundu";
+        public static string UserNotFound = "Kullanıcı yok";
+
+        public static string PasswordError = "Şifre hatalı";
+        public static string UserAlreadyExists = "Kullanıcı zaten var";
+        public static string SuccessfulLogin = "Giriş Başarılı";
+
+        public static string AccessTokenCreated = "Token oluşturuldu";
     }
 }
 

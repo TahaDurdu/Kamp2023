@@ -275,3 +275,5 @@
 /Users/tahadurdu/Documents/Kamp2023/FinalProject/WebAPI/bin/Debug/net8.0/Castle.Core.dll
 /Users/tahadurdu/Documents/Kamp2023/FinalProject/WebAPI/bin/Debug/net8.0/Autofac.Extensions.DependencyInjection.dll
 /Users/tahadurdu/Documents/Kamp2023/FinalProject/WebAPI/bin/Debug/net8.0/FluentValidation.dll
+/Users/tahadurdu/Documents/Kamp2023/FinalProject/WebAPI/bin/Debug/net8.0/Microsoft.Extensions.Configuration.Binder.dll
+/Users/tahadurdu/Documents/Kamp2023/FinalProject/WebAPI/bin/Debug/net8.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
