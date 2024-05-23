@@ -1,55 +1,84 @@
 ﻿<Properties StartupConfiguration="{FDCC7A9E-DC24-4D42-9635-0CF8BD11F961}|http">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Business/Concrete/ProductManager.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="WebAPI/Program.cs">
     <Files>
-      <File FileName="Core/CrossCuttingConcerns/Caching/ICacheManager.cs" Line="11" Column="40" />
-      <File FileName="Core/CrossCuttingConcerns/Caching/Microsoft/MemoryCacheManager.cs" Line="58" Column="1" />
-      <File FileName="Core/Utilities/IoC/ServiceTool.cs" Line="1" Column="1" />
-      <File FileName="Core/Utilities/IoC/ICoreModule.cs" Line="1" Column="1" />
-      <File FileName="Core/DependencyResolvers/CoreModule.cs" Line="18" Column="44" />
-      <File FileName="Core/Aspects/Autofac/Caching/EmptyClass.cs" Line="34" Column="1" />
-      <File FileName="Business/Concrete/ProductManager.cs" Line="59" Column="1" />
-      <File FileName="WebAPI/Controllers/ProductsController.cs" Line="28" Column="1" />
-      <File FileName="Core/Aspects/Autofac/Caching/CacheRemoveAspect.cs" Line="25" Column="6" />
-      <File FileName="Business/Abstract/IProductService.cs" Line="21" Column="1" />
-      <File FileName="Core/Aspects/Autofac/Transaction/EmptyClass.cs" Line="8" Column="40" />
-      <File FileName="Core/Aspects/Autofac/Performance/EmptyClass.cs" Line="3" Column="35" />
+      <File FileName="Core/CrossCuttingConcerns/Caching/ICacheManager.cs" />
+      <File FileName="Core/CrossCuttingConcerns/Caching/Microsoft/MemoryCacheManager.cs" />
+      <File FileName="Core/Aspects/Autofac/Caching/CacheAspect.cs" />
+      <File FileName="Core/Aspects/Autofac/Caching/CacheRemoveAspect.cs" />
+      <File FileName="Core/Aspects/Autofac/Performance/PerformanceAspect.cs" />
+      <File FileName="Core/Aspects/Autofac/Transaction/TransactionScopeAspect.cs" />
+      <File FileName="WebAPI/appsettings.json" />
+      <File FileName="WebAPI/Program.cs" Line="68" Column="22" />
+      <File FileName="Core/Utilities/Security/JWT/JwtHelper.cs" />
+      <File FileName="Core/Extensions/ClaimExtensions.cs" />
+      <File FileName="Core/Extensions/ServiceCollectionExtensions.cs" />
+      <File FileName="Core/Extensions/ClaimsPrincipalExtensions.cs" />
+      <File FileName="Core/Utilities/Security/Encryption/SecurityKeyHelper.cs" />
+      <File FileName="Core/Utilities/Security/Encryption/SingningCredentialsHelper.cs" />
+      <File FileName="Business/Concrete/AuthManager.cs" />
+      <File FileName="WebAPI/Controllers/AuthController.cs" />
+      <File FileName="Core/Utilities/Security/JWT/AccessToken.cs" />
+      <File FileName="Business/BusinessAspects/Autofac/SecuredOperation.cs" />
+      <File FileName="Core/Aspects/Autofac/Validation/ValidationAspect.cs" />
+      <File FileName="Core/Utilities/Interceptors/AspectInterceptorSelector.cs" />
+      <File FileName="Core/Utilities/Interceptors/MethodInterception.cs" />
+      <File FileName="WebAPI/Controllers/WeatherForecastController.cs" />
+      <File FileName="WebAPI/Properties/launchSettings.json" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="FinalProject" expanded="True">
-            <Node name="Business">
-              <Node name="Abstract" expanded="True" />
-              <Node name="Concrete" expanded="True">
-                <Node name="ProductManager.cs" selected="True" />
-              </Node>
-            </Node>
-            <Node name="Core">
-              <Node name="Aspects" expanded="True">
+            <Node name="Business" expanded="True">
+              <Node name="BusinessAspects" expanded="True">
                 <Node name="Autofac" expanded="True" />
               </Node>
-              <Node name="CrossCuttingConcerns" expanded="True">
-                <Node name="Caching" expanded="True" />
+              <Node name="Concrete" expanded="True" />
+            </Node>
+            <Node name="Core" expanded="True">
+              <Node name="Aspects" expanded="True">
+                <Node name="Autofac" expanded="True">
+                  <Node name="Caching" expanded="True" />
+                  <Node name="Validation" expanded="True" />
+                </Node>
               </Node>
-              <Node name="DependencyResolvers" expanded="True" />
+              <Node name="CrossCuttingConcerns" expanded="True">
+                <Node name="Caching" expanded="True">
+                  <Node name="Microsoft" expanded="True" />
+                </Node>
+              </Node>
+              <Node name="Extensions" expanded="True" />
               <Node name="Utilities" expanded="True">
-                <Node name="IoC" expanded="True" />
+                <Node name="Interceptors" expanded="True" />
+                <Node name="Security" expanded="True">
+                  <Node name="JWT" expanded="True" />
+                </Node>
               </Node>
             </Node>
             <Node name="WebAPI" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="FrameworkReferences" expanded="True" selected="True" />
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
               <Node name="Controllers" expanded="True" />
+              <Node name="Properties" expanded="True" />
             </Node>
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.ConsoleUI PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.WebAPI PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/tahadurdu/Documents/Kamp2023/FinalProject/Core/Extensions/ClaimsPrincipalExtensions.cs" relfile="Core/Extensions/ClaimsPrincipalExtensions.cs" line="11" column="1" />
+      <Breakpoint file="/Users/tahadurdu/Documents/Kamp2023/FinalProject/Core/Extensions/ClaimsPrincipalExtensions.cs" relfile="Core/Extensions/ClaimsPrincipalExtensions.cs" line="16" column="1" />
+      <Breakpoint file="/Users/tahadurdu/Documents/Kamp2023/FinalProject/Core/Extensions/ClaimExtensions.cs" relfile="Core/Extensions/ClaimExtensions.cs" line="26" column="1" />
+      <Breakpoint file="/Users/tahadurdu/Documents/Kamp2023/FinalProject/Business/BusinessAspects/Autofac/SecuredOperation.cs" relfile="Business/BusinessAspects/Autofac/SecuredOperation.cs" line="21" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.ConsoleUI PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>
