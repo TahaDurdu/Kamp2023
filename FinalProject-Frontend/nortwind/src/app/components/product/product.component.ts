@@ -1,18 +1,29 @@
-import { Component } from '@angular/core';
+import { Component, OnInit } from '@angular/core';
+import { Product } from '../../models/product';
+import { ProductService } from '../../services/product.service';
+
 
 @Component({
   selector: 'app-product',
   templateUrl: './product.component.html',
   styleUrl: './product.component.css'
 })
-export class ProductComponent {
+export class ProductComponent implements OnInit {
+  dataLoaded = false;
+  products:Product[] = [];
+ 
 
-  product1 = {productId:1,productName : "Bardak", categoryId:1, unitPrice:5}
-  product2 = {productId:2,productName : "Laptop", categoryId:1, unitPrice:5}
-  product3 = {productId:3,productName : "Maose", categoryId:1, unitPrice:5}
-  product4 = {productId:4,productName : "Masa", categoryId:1, unitPrice:5}
-  product5 = {productId:5,productName : "Camera", categoryId:1, unitPrice:5}
+  constructor(private productService:ProductService){}
 
-  products = [this.product1,this.product2,this.product3,this.product4,this.product5]
-  
+
+  ngOnInit(): void {
+    this.getProducts();
+  }
+
+  getProducts(){
+   this.productService.getProducts().subscribe(response=>{
+    this.products=response.data;
+    this.dataLoaded = true;
+   })
+  }
 }
